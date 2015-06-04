@@ -1,0 +1,14 @@
+{
+  "name": "jns",
+  "version": "1.0.0",
+  "description": "searches for files",
+  "keywords": [
+    "jns"
+  ],
+  "preferGlobal": true,
+  "author": "jackness",
+  "license": "ISC",
+  "bin": {
+    "jns": "index.js"
+  }
+}
